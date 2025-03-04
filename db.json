@@ -2,5 +2,8 @@
   "posts": [
   ],
   "comments": [
-  ]
+  ],
+  "profile": {
+    "name": "test"
+  }
 }
